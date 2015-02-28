@@ -1,0 +1,515 @@
+{
+   "took": 147,
+   "timed_out": false,
+   "_shards": {
+      "total": 5,
+      "successful": 5,
+      "failed": 0
+   },
+   "hits": {
+      "total": 645,
+      "max_score": 23.563248,
+      "hits": [
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TOv",
+            "_score": 23.563248,
+            "_source": {
+               "title": "Ask Slashdot: Temporary Backup Pouch?",
+               "doc_id": "blcrlsn2_606.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TL9",
+            "_score": 20.632633,
+            "_source": {
+               "title": "Ask Slashdot: Easiest Way To Consolidate Household Media?",
+               "doc_id": "blcrlsn2_446.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Skg",
+            "_score": 20.051538,
+            "_source": {
+               "title": "Ask Slashdot: Best Offline Storage Method For Large Archives?",
+               "doc_id": "blcrlsn2_811.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Sux",
+            "_score": 18.064375,
+            "_source": {
+               "title": "Ask Slashdot: Distributed Online Storage For Families?",
+               "doc_id": "blcrlsn2_191.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Shl",
+            "_score": 18.009193,
+            "_source": {
+               "title": "Ask Slashdot: How Do You Manage Your Personal Data?",
+               "doc_id": "blcrlsn2_643.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Shc",
+            "_score": 17.858486,
+            "_source": {
+               "title": "Ask Slashdot: It's World Backup Day; How Do You Back Up?",
+               "doc_id": "blcrlsn2_635.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95SkD",
+            "_score": 17.82241,
+            "_source": {
+               "title": "Ask Slashdot: Network Backup Solution Out of the Box?",
+               "doc_id": "blcrlsn2_786.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TNq",
+            "_score": 17.522192,
+            "_source": {
+               "title": "Ask Slashdot: Personal Tape Drive NAS?",
+               "doc_id": "blcrlsn2_544.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TKy",
+            "_score": 17.46229,
+            "_source": {
+               "title": "Ask Slashdot: Simplifying Encryption and Backup?",
+               "doc_id": "blcrlsn2_379.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurR5nO1fshki95S4s",
+            "_score": 16.872154,
+            "_source": {
+               "title": "Ask Slashdot: Simple Backups To a Neighbor?",
+               "doc_id": "blcrlsn2_246.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TN8",
+            "_score": 16.714361,
+            "_source": {
+               "title": "Ask Slashdot: Stepping Down From an Office Server To NAS-Only?",
+               "doc_id": "blcrlsn2_560.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Sj2",
+            "_score": 16.689325,
+            "_source": {
+               "title": "Ask Slashdot: Best Long-Term Video/Picture Storage?",
+               "doc_id": "blcrlsn2_774.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95SjK",
+            "_score": 16.429663,
+            "_source": {
+               "title": "Why Do Companies Backup So Infrequently?",
+               "doc_id": "blcrlsn2_734.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurVpQO1fshki95S9a",
+            "_score": 16.31122,
+            "_source": {
+               "title": "Ask Slashdot: Configuring Development Environment On a Shared Workstation?",
+               "doc_id": "blcrlsn2_2724.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Sjb",
+            "_score": 16.161531,
+            "_source": {
+               "title": "Ask Slashdot: What To Do After Digitizing VHS Tapes?",
+               "doc_id": "blcrlsn2_75.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Shb",
+            "_score": 15.754908,
+            "_source": {
+               "title": "Ask Slashdot: How Do You Test Storage Media?",
+               "doc_id": "blcrlsn2_634.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TL4",
+            "_score": 15.709423,
+            "_source": {
+               "title": "Ask Slashdot: Using a Tablet As a Sole Computing Device?",
+               "doc_id": "blcrlsn2_441.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurR5nO1fshki95S4B",
+            "_score": 15.141506,
+            "_source": {
+               "title": "Ask Slashdot: How Do You Install Ubuntu On 30 Laptops and Keep Them In Sync?",
+               "doc_id": "blcrlsn2_2420.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Sjh",
+            "_score": 15.106416,
+            "_source": {
+               "title": "Ask Slashdot: Computer Test Lab Set-Up For Home?",
+               "doc_id": "blcrlsn2_755.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurR5nO1fshki95S5x",
+            "_score": 15.074341,
+            "_source": {
+               "title": "Help ESR Stamp Out CVS and SVN In Our Lifetime",
+               "doc_id": "blcrlsn2_2521.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TOm",
+            "_score": 14.835342,
+            "_source": {
+               "title": "Ask Slashdot: Syncing Files With Remote Server While On the Road?",
+               "doc_id": "blcrlsn2_599.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurVpRO1fshki95S-s",
+            "_score": 14.763597,
+            "_source": {
+               "title": "VirtualBox 4.3 Comes With New Multi-Touch Support, Virtual Cam and More",
+               "doc_id": "blcrlsn2_2799.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurVpQO1fshki95S9y",
+            "_score": 14.168739,
+            "_source": {
+               "title": "Why Don't Open Source Databases Use GPUs?",
+               "doc_id": "blcrlsn2_2746.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TM2",
+            "_score": 14.063268,
+            "_source": {
+               "title": "Ask Slashdot: Securing a Windows Laptop, For the Windows Newbie?",
+               "doc_id": "blcrlsn2_498.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95ShZ",
+            "_score": 14.05592,
+            "_source": {
+               "title": "Ask Slashdot: How To Make My Own Hardware Multimedia Player?",
+               "doc_id": "blcrlsn2_632.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TO7",
+            "_score": 13.803776,
+            "_source": {
+               "title": "Ask Slashdot: DIY NAS For a Variety of Legacy Drives?",
+               "doc_id": "blcrlsn2_617.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Swp",
+            "_score": 13.689446,
+            "_source": {
+               "title": "Linux 3.13 Kernel To Bring Major Feature Improvements",
+               "doc_id": "blcrlsn2_2017.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Sjs",
+            "_score": 13.407513,
+            "_source": {
+               "title": "Ask Slashdot: Create Custom Recovery Partitions With FOSS?",
+               "doc_id": "blcrlsn2_765.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TOt",
+            "_score": 13.113026,
+            "_source": {
+               "title": "Ask Slashdot: How To Shop For a Laptop?",
+               "doc_id": "blcrlsn2_604.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurOEwO1fshki95Sz7",
+            "_score": 12.88355,
+            "_source": {
+               "title": "Ask Slashdot: Best Options For a Standalone Offline Printing Station?",
+               "doc_id": "blcrlsn2_22.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95SjD",
+            "_score": 12.614941,
+            "_source": {
+               "title": "Ask Slashdot: Data Remanence Solutions?",
+               "doc_id": "blcrlsn2_728.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95Siz",
+            "_score": 12.597408,
+            "_source": {
+               "title": "Ask Slashdot: Protecting Tech Gear From Smash-and-Grab Theft?",
+               "doc_id": "blcrlsn2_713.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Sul",
+            "_score": 12.371,
+            "_source": {
+               "title": "Ask Slashdot: High-Performance Laptop That Doesn't Overheat?",
+               "doc_id": "blcrlsn2_19.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurR5nO1fshki95S2-",
+            "_score": 12.351344,
+            "_source": {
+               "title": "NewEgg: Installing Linux Breaks Laptop",
+               "doc_id": "blcrlsn2_2360.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuuq5WbO1fshki95Sah",
+            "_score": 12.3100605,
+            "_source": {
+               "title": "Ask Slashdot: Is It Feasible To Revive an Old Linux PC Setup?",
+               "doc_id": "blcrlsn2_117.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Sxw",
+            "_score": 12.210258,
+            "_source": {
+               "title": "Plug Touts Expandable Storage Via USB Drives Plugged In At Home",
+               "doc_id": "blcrlsn2_2081.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TOn",
+            "_score": 12.070221,
+            "_source": {
+               "title": "Ask Slashdot: With Whom Do You Entrust Your Long Term Data?",
+               "doc_id": "blcrlsn2_6.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TMP",
+            "_score": 12.002567,
+            "_source": {
+               "title": "Slashdot Asks: SATA DVD Drives That Don't Suck for CD Ripping?",
+               "doc_id": "blcrlsn2_462.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurAB_O1fshki95SjA",
+            "_score": 12.000671,
+            "_source": {
+               "title": "Ask Slashdot: Networked Back-Up/Wipe Process?",
+               "doc_id": "blcrlsn2_725.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurhMqO1fshki95TN9",
+            "_score": 11.934397,
+            "_source": {
+               "title": "Ask Slashdot: Storing Items In a Sealed Chest For 25 Years?",
+               "doc_id": "blcrlsn2_561.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Sv7",
+            "_score": 11.806438,
+            "_source": {
+               "title": "Ask Slashdot: Linux For Grandma?",
+               "doc_id": "blcrlsn2_1977.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Su9",
+            "_score": 11.69088,
+            "_source": {
+               "title": "Prof. Andy Tanenbaum Retires From Vrije University",
+               "doc_id": "blcrlsn2_1920.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurZPQO1fshki95TFO",
+            "_score": 11.357378,
+            "_source": {
+               "title": "Ask Slashdot: Can I Cross US Borders With Legally Ripped Media?",
+               "doc_id": "blcrlsn2_316.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurR5nO1fshki95S3F",
+            "_score": 11.349649,
+            "_source": {
+               "title": "First Steps With the Raspberry Pi",
+               "doc_id": "blcrlsn2_2367.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurZPQO1fshki95TCF",
+            "_score": 11.328607,
+            "_source": {
+               "title": "Ask Slashdot: Secure DropBox Alternative For a Small Business?",
+               "doc_id": "blcrlsn2_298.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95Sxj",
+            "_score": 11.314497,
+            "_source": {
+               "title": "Ask Slashdot: Suggestions For a Simple Media Server?",
+               "doc_id": "blcrlsn2_207.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurKlYO1fshki95SxP",
+            "_score": 11.304466,
+            "_source": {
+               "title": "With XP's End of Life, Munich Will Distribute Ubuntu CDs",
+               "doc_id": "blcrlsn2_2051.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurG0tO1fshki95SrD",
+            "_score": 11.291241,
+            "_source": {
+               "title": "How Do You Backup 20TB of Data?",
+               "doc_id": "blcrlsn2_171.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuurG0tO1fshki95Ss4",
+            "_score": 11.238927,
+            "_source": {
+               "title": "Dell Continues Shipping Fresh Linux Laptops",
+               "doc_id": "blcrlsn2_1815.txt"
+            }
+         },
+         {
+            "_index": "blcrlsn2_index",
+            "_type": "doc",
+            "_id": "AUuuq8nxO1fshki95Sgu",
+            "_score": 11.170944,
+            "_source": {
+               "title": "Ask Slashdot: Professional Journaling/Notes Software?",
+               "doc_id": "blcrlsn2_152.txt"
+            }
+         }
+      ]
+   }
+}
