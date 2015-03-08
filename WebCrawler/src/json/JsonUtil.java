@@ -19,6 +19,7 @@ public class JsonUtil {
 
 	public static String printTextFileJson(long textFileName, FeedInfo feedInfo) {
 		Gson gson = new Gson();
+		// build the json object
 		JsonObject textDocument = new JsonObject();
 		textDocument.addProperty("doc_id", textFileName);
 		textDocument.addProperty("url", feedInfo.getLink());

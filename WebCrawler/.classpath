@@ -6,8 +6,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/blcarlson/Documents/Eclipse Libraries/gson-2.3.1.jar"/>
-	<classpathentry kind="lib" path="/Users/blcarlson/Documents/Eclipse Libraries/jsoup-1.8.1.jar"/>
 	<classpathentry kind="lib" path="/Users/blcarlson/Documents/Eclipse Libraries/elasticsearch-1.4.4.jar"/>
 	<classpathentry kind="lib" path="/Users/blcarlson/Documents/Eclipse Libraries/httpcomponents-core-4.4/lib/commons-cli-1.2.jar"/>
 	<classpathentry kind="lib" path="/Users/blcarlson/Documents/Eclipse Libraries/httpcomponents-core-4.4/lib/httpcore-4.4.jar"/>
