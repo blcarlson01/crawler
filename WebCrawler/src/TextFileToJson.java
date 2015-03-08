@@ -6,21 +6,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 
+import json.JsonUtil;
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
 public class TextFileToJson {
-
-	private static String printCreateDocIdJson() {
-		// Line required before each document
-		Gson gson = new Gson();
-		JsonObject createDocId = new JsonObject();
-		JsonObject createProperties = new JsonObject();
-		createProperties.addProperty("_index", "blcrlsn2_index");
-		createProperties.addProperty("_type", "doc");
-		createDocId.add("create", createProperties);
-		return gson.toJson(createDocId);
-	}
 
 	/*
 	 * Create the Json Object for each Text File
@@ -88,7 +79,7 @@ public class TextFileToJson {
 						new FileOutputStream(orgFile), "UTF-8"));
 			}
 
-			orgWriter.write(printCreateDocIdJson());
+			orgWriter.write(JsonUtil.printCreateDocIdJson("blcrlsn2_index"));
 			orgWriter.newLine();
 			orgWriter.write(printTextFileJson(fileEntry.getName(), url, title,
 					body));
