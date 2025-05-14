@@ -1,5 +1,7 @@
 package feed;
 
+import io.github.pixee.security.HostValidator;
+import io.github.pixee.security.Urls;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -26,7 +28,7 @@ public class FeedUtils {
 		URL feedUrl;
 		List<FeedInfo> articles = new ArrayList<FeedInfo>();
 		try {
-			feedUrl = new URL(feed);
+			feedUrl = Urls.create(feed, Urls.HTTP_PROTOCOLS, HostValidator.DENY_COMMON_INFRASTRUCTURE_TARGETS);
 			/*
 			 * <title>Peru withdrawing ambassador from Chile over spying
 			 * accusations</title>
